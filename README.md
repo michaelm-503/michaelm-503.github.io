@@ -2,11 +2,11 @@
 
 ### Work Experience
 
-- **Engineering Manager, Intel Corporation**, 3/2022-7/2025
+- **Engineering Manager**, Intel Corporation, 3/2022-7/2025
     - Automated ingestion and visualization of maintenance data (SQL, Python, JMP) to enable engineers, technicians, and people managers to measure performance and identify problems in real-time, **reducing maintenance rework events by 50% and eliminating $8M+ annually in waste**.
     - Developed a new model for manufacturing output and capacity to improve forecasting of equipment purchases, **avoiding $42M in unnecessary tool purchases without impacting factory output**.
     - Led a factory-wide effort that achieved a two-quarter acceleration of factory retooling. Coordinated roadmaps and held teams accountable to meeting planned metrics. **Saved $8.5M without impact to output, operations, or customers**.
-- **TD Module Manager, Intel Corporation**, 3/2022-7/2025
+- **TD Module Manager**, Intel Corporation, 3/2022-7/2025
     - Developed regression-based automated process control to decrease product variability and eliminate a device reliability flaw. **Increased total product yield by 2%, resulting in $50M+ in annual savings**.
     - Built a KPI dashboard to enable daily tracking of metrics and Pareto-driven process improvement, **leading to a 14% increase in equipment productivity and avoiding $12M in equipment purchases**.
     - Applied lean strategies to reduce maintenance duration times by 33%, **leading to $2M annual labor savings**.
@@ -44,5 +44,10 @@ Linear Regression analysis of housing prices in King County, Washington. Jupyter
 <img src="/assets/housing_prices.jpg" width="400">
 
 ## Skills
-- Analytics & Modeling: Python (pandas, matplotlib, scikit-learn), SQL, JMP, JMP Scripting Language (JSL), MS Excel (advanced, macros), Power BI, Tableau, Jupyter Notebooks
-- Statistical Frameworks: Statistical Process Control (SPC), Regression & Hypothesis Testing, Process Capability Analysis, Time Series Analysis, Anomaly Detection, Classification, Design of Experiments (DOE), Pareto Analysis
+- **Data & Tools**: SQL, JMP (advanced, JSL), Python (pandas, matplotlib, scikit-learn), Excel (advanced, macros), Power BI, Tableau, Jupyter Notebooks, data storytelling
+- **Statistical Methods**: Statistical process control (SPC), Design of experiments (DOE), ANOVA, linear regression, classification, anomaly detection, time series analysis, predictive modeling
+- **Program & Project Management**: KPI development, project scheduling, milestone tracking, risk management, stakeholder communication, cross-functional leadership, change control, vendor management
+- **Process Improvement**: Pareto analysis, DMAIC, lean manufacturing, continuous improvement, Kaizen
+- **Quality & Reliability**: Failure mode and effects analysis (FMEA), 8D, root cause analysis (RCA), model-based problem solving, CAPA, defect reduction, fault detection and classification (FDC)
+- **Equipment**: Plasma etch (RIE), Thin-film Deposition (metals sputtering, physical vapor deposition, ALD, CVD)
+
