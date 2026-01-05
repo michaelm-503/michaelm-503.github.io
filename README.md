@@ -1,4 +1,4 @@
-## Process Engineering Leader | Data Scientist | Ph.D. Chemist
+## Process Engineer | Data Scientist | Chemist
 
 ## Work Experience
 
