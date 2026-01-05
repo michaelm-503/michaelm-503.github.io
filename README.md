@@ -1,6 +1,6 @@
 ## Process Engineer | Data Scientist | Chemist
 
-## Work Experience
+### Work Experience
 
 - Module Engineering Manager, Intel Corporation, Hillsboro, Oregon	3/2022 — 7/2025
 - TD Module Manager, Intel Corporation, Hillsboro, Oregon 	3/2019 — 3/2022
@@ -8,12 +8,12 @@
 - Graduate Research Assistant, University of California Berkeley, Berkeley, California	9/2007 — 8/2013
 - Computer Support Specialist, SARCOM, Cleveland, Ohio	8/2006 — 7/2007
 
-## Education
+### Education
 
 - Doctorate (Ph.D.), Chemistry, University of California, Berkeley
 - Bachelor of Arts (B.A.), Chemistry, with High Honors, Oberlin College
 
-## Certifications
+### Certifications
 
 - Data Science with AI Boot Camp (in progress, expected 2/2026), Codecademy.com	
 - Analyze Data with SQL Skill Path, Codecademy.com
