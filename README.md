@@ -1,6 +1,4 @@
-# Michael C. Moore
-
-Process Engineering & Manufacturing Leader | Data Scientist | Ph.D. Chemist
+# Process Engineering Leader | Data Scientist | Ph.D. Chemist
 
 ### Work Experience
 
