@@ -1,4 +1,4 @@
-# Process Engineering Leader | Data Scientist | Ph.D. Chemist
+## Process Engineering Leader | Data Scientist | Ph.D. Chemist
 
 ### Work Experience
 
@@ -20,5 +20,16 @@
 
 ### Projects
 
-- Emissions Tracker Data Viz @ [Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
-- King County Housing Prices ML investigation
+**Emissions Dashboard Data Viz**
+
+[Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
+
+Dashboard detailing 9 years of trends and correlations in my energy usage and emissions at home. Click through the story mode to see my insights on how various life changes and home upgrades have shifted my emissions.
+
+![Emissions Dashboard](/assets/EmissionsDashboard.jpg)
+
+**King County Housing Prices ML Investigation**
+
+Linear Regression analysis of housing prices in King County, Washington.
+
+![Housing Prices](/assets/housing_prices.jpg)
