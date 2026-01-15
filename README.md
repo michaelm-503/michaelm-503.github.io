@@ -27,6 +27,14 @@
 
 ## Projects
 
+### Spam Classifier 
+
+[GitHub](https://github.com/michaelm-503/spam_classification)
+
+Text processing and machine learning analysis to predict whether a text message is ham (normal) or spam (unwanted/advertising/scam).
+
+<img src="/assets/spam.png" width="400">
+
 ### Emissions Dashboard Data Viz
 
 [Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
