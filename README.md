@@ -1,9 +1,23 @@
 ## Process Engineer | Data Scientist | Chemist
 
+I turn messy manufacturing and business data into decisions leaders can act on.
+
+I’m a data analytics and process engineering professional with 12+ years in high-volume manufacturing at Intel, including 6+ years in management roles. My work sits at the intersection of data analytics, data science, process engineering, and manufacturing operations, where I use data to improve throughput, yield, cost, and create business impact.
+
+I specialize in data analytics, data visualization, and applied data science—translating complex datasets into clear insights, predictive models, and scalable tools. I’ve led cross-functional initiatives, built analytical frameworks from scratch, and partnered with engineering, operations, and leadership teams to drive measurable business outcomes. My strength is not just analysis, but connecting data to execution through people leadership and technical program management.
+
+Today, I’m focused on roles where analytics directly informs strategy and operations, including Data Analyst, Senior Data Analyst, Business Analyst, Data Scientist, Process Engineer, Engineering Manager, Manufacturing Operations Manager, and Technical Program Manager roles. I bring a rigorous engineering mindset and a bias toward practical solutions that work at scale.
+
+What I do best:
+- Turning ambiguous problems into structured, data-driven decisions
+- Building and delivering KPIs, dashboards, and operational metrics – data storytelling
+- Applying statistical analysis, machine learning, and visualization to real-world problems
+- Partnering with stakeholders to design sustainable, scalable solutions
+- Driving projects to completion using lean principles and DMAIC
 
 ## Projects
 
-### Emissions Dashboard Data Viz
+#### Emissions Dashboard Data Viz
 
 [Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
 
@@ -11,7 +25,7 @@ Dashboard detailing 9 years of trends and correlations in my energy usage and em
 
 <img src="/assets/EmissionsDashboard.jpg" width="600">
 
-### Spam Classifier 
+#### Spam Classifier 
 
 [GitHub](https://github.com/michaelm-503/spam_classification)
 
@@ -19,7 +33,7 @@ Text processing and machine learning analysis to predict whether a text message 
 
 <img src="/assets/spam.png" width="400">
 
-### King County Housing Prices ML Investigation
+#### King County Housing Prices ML Investigation
 
 [GitHub](https://github.com/michaelm-503/housing-prices-king-county)
 
@@ -27,7 +41,7 @@ Linear Regression analysis of housing prices in King County, Washington. Jupyter
 
 <img src="/assets/housing_prices.jpg" width="400">
 
-### Work Experience
+## Work Experience
 
 - **Engineering Manager**, Intel Corporation, 3/2022-7/2025
     - Automated ingestion and visualization of maintenance data (SQL, Python, JMP) to enable engineers, technicians, and people managers to measure performance and identify problems in real-time, **reducing maintenance rework events by 50% and eliminating $8M+ annually in waste**.
@@ -42,12 +56,12 @@ Linear Regression analysis of housing prices in King County, Washington. Jupyter
     - Automated real-time statistics across 150+ process sensors to detect drift and halt processing at the first signs of failure. Utilized anomaly detection and regression to determine yield and quality correlations. Implemented process changes and equipment upgrades that **reduced scraps from 5% to 1% and saved $10M+ annually**.
     - Developed a unified factory operations dashboard integrating multiple data sources (SPC, MES, FDC), **reducing manual data handling by 125+ engineer-hours weekly**.
 
-### Education
+## Education
 
 - Doctorate (Ph.D.), Chemistry, University of California, Berkeley
 - Bachelor of Arts (B.A.), Chemistry, with High Honors, Oberlin College
 
-### Certifications
+## Certifications
 
 - Data Science with AI Boot Camp (in progress, expected 2/2026), Codecademy.com	
 - Analyze Data with SQL Skill Path, Codecademy.com
