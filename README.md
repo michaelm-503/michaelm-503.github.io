@@ -1,5 +1,32 @@
 ## Process Engineer | Data Scientist | Chemist
 
+
+## Projects
+
+### Emissions Dashboard Data Viz
+
+[Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
+
+Dashboard detailing 9 years of trends and correlations in my energy usage and emissions at home. Click through the story mode to see my insights on how various life changes and home upgrades have shifted my emissions.
+
+<img src="/assets/EmissionsDashboard.jpg" width="600">
+
+### Spam Classifier 
+
+[GitHub](https://github.com/michaelm-503/spam_classification)
+
+Text processing and machine learning analysis to predict whether a text message is ham (normal) or spam (unwanted/advertising/scam).
+
+<img src="/assets/spam.png" width="400">
+
+### King County Housing Prices ML Investigation
+
+[GitHub](https://github.com/michaelm-503/housing-prices-king-county)
+
+Linear Regression analysis of housing prices in King County, Washington. Jupyter Notebooks covering pre-processing, visualization, modeling, and insights.
+
+<img src="/assets/housing_prices.jpg" width="400">
+
 ### Work Experience
 
 - **Engineering Manager**, Intel Corporation, 3/2022-7/2025
@@ -24,32 +51,6 @@
 
 - Data Science with AI Boot Camp (in progress, expected 2/2026), Codecademy.com	
 - Analyze Data with SQL Skill Path, Codecademy.com
-
-## Projects
-
-### Spam Classifier 
-
-[GitHub](https://github.com/michaelm-503/spam_classification)
-
-Text processing and machine learning analysis to predict whether a text message is ham (normal) or spam (unwanted/advertising/scam).
-
-<img src="/assets/spam.png" width="400">
-
-### Emissions Dashboard Data Viz
-
-[Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
-
-Dashboard detailing 9 years of trends and correlations in my energy usage and emissions at home. Click through the story mode to see my insights on how various life changes and home upgrades have shifted my emissions.
-
-<img src="/assets/EmissionsDashboard.jpg" width="600">
-
-### King County Housing Prices ML Investigation
-
-[GitHub](https://github.com/michaelm-503/housing-prices-king-county)
-
-Linear Regression analysis of housing prices in King County, Washington. Jupyter Notebooks covering pre-processing, visualization, modeling, and insights.
-
-<img src="/assets/housing_prices.jpg" width="400">
 
 ## Skills
 - **Data & Tools**: SQL, JMP (advanced, JSL), Python (pandas, matplotlib, scikit-learn), Excel (advanced, macros), Power BI, Tableau, Jupyter Notebooks, data storytelling
