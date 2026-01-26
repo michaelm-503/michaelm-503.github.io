@@ -1,6 +1,6 @@
 ## Process Engineer | Data Scientist | Chemist
 
-I turn messy manufacturing and business data into decisions leaders can act on.
+I turn messy manufacturing and business data into solutions leaders can act on.
 
 I’m a data analytics and process engineering professional with 12+ years in high-volume manufacturing at Intel, including 6+ years in management roles. My work sits at the intersection of data analytics, data science, process engineering, and manufacturing operations, where I use data to improve throughput, yield, cost, and create business impact.
 
