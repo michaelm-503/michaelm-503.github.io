@@ -25,6 +25,14 @@ Dashboard detailing 9 years of trends and correlations in my energy usage and em
 
 <img src="/assets/EmissionsDashboard.jpg" width="600">
 
+#### Customer Segmentation and Business Insights
+
+[GitHub](https://github.com/michaelm-503/customer-segmentation)
+
+A customer segmentation and business insights project for a wholesale company in Portugal utilizing unsupervised learning.
+
+<img src="/assets/clustering.png" width="400">
+
 #### Spam Classifier 
 
 [GitHub](https://github.com/michaelm-503/spam_classification)
