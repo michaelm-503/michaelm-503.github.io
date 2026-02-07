@@ -29,7 +29,7 @@ Dashboard detailing 9 years of trends and correlations in my energy usage and em
 
 [GitHub](https://github.com/michaelm-503/customer-segmentation)
 
-A customer segmentation and business insights project for a wholesale company in Portugal utilizing unsupervised learning.
+This project applies unsupervised learning and exploratory analysis to segment customers for a wholesale food and supply distributor operating in Portugal. Using annual spending data across product categories, along with channel (HoReCa vs. Retail) and regional indicators, the goal is to uncover meaningful customer segments and translate those patterns into actionable business insights.
 
 <img src="/assets/clustering.png" width="400">
 
@@ -37,7 +37,9 @@ A customer segmentation and business insights project for a wholesale company in
 
 [GitHub](https://github.com/michaelm-503/spam_classification)
 
-Text processing and machine learning analysis to predict whether a text message is ham (normal) or spam (unwanted/advertising/scam).
+This project explores a classic machine learning problem: classifying SMS messages as ham or spam, using a dataset full of noisy, shorthand-heavy language from early-2000s mobile texting.
+
+Rather than treating this as a simple modeling exercise, I approached it as a full data science workflow, emphasizing interpretability and robustness under changing assumptions. The project combines exploratory analysis, iterative feature engineering, and systematic model evaluation to understand why certain approaches work—and where they fail.
 
 <img src="/assets/spam.png" width="400">
 
