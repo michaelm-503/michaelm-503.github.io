@@ -21,7 +21,7 @@ What I do best:
 
 [Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
 
-Dashboard detailing 9 years of trends and correlations in my energy usage and emissions at home. Click through the story mode to see my insights on how various life changes and home upgrades have shifted my emissions.
+This data viz tracks 9 years of trends and correlations in my energy usage and emissions at home. Click through the story mode to see my insights on how various life changes and home upgrades have shifted my emissions.
 
 <img src="/assets/EmissionsDashboard.jpg" width="600">
 
@@ -30,6 +30,12 @@ Dashboard detailing 9 years of trends and correlations in my energy usage and em
 [GitHub](https://github.com/michaelm-503/customer-segmentation)
 
 This project applies unsupervised learning and exploratory analysis to segment customers for a wholesale food and supply distributor operating in Portugal. Using annual spending data across product categories, along with channel (HoReCa vs. Retail) and regional indicators, the goal is to uncover meaningful customer segments and translate those patterns into actionable business insights.
+
+Rather than treating clustering as a purely technical exercise, this analysis emphasizes:
+- Understanding the business context behind the data
+- Evaluating multiple clustering approaches and their limitations
+- Iteratively refining features to balance model stability, interpretability, and usefulness
+- Connecting data-driven segments to practical strategies for growth, retention, and operations
 
 <img src="/assets/clustering.png" width="400">
 
@@ -47,7 +53,13 @@ Rather than treating this as a simple modeling exercise, I approached it as a fu
 
 [GitHub](https://github.com/michaelm-503/housing-prices-king-county)
 
-Linear Regression analysis of housing prices in King County, Washington. Jupyter Notebooks covering pre-processing, visualization, modeling, and insights.
+This project explores housing price prediction in King County, Washington using linear regression–based models. Starting from a broad set of structural and geographic features, the goal was to understand how much of housing price variation can be explained by linear relationships, and where those models begin to break down.
+
+Rather than focusing solely on maximizing performance, the emphasis was on:
+- Careful data cleaning and feature treatment, especially for ordinal and hybrid variables
+- Understanding the limitations of linear models in a spatial, economically complex problem
+- Interpreting model coefficients and residual behavior
+- Evaluating the impact of regularization, outlier handling, and feature selection
 
 <img src="/assets/housing_prices.jpg" width="400">
 
