@@ -17,7 +17,7 @@ What I do best:
 
 ## Projects
 
-#### Emissions Dashboard Data Viz
+#### Home Emissions Data Viz
 
 [Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
 
@@ -39,7 +39,7 @@ Rather than treating clustering as a purely technical exercise, this analysis em
 
 <img src="/assets/clustering.png" width="400">
 
-#### Spam Classifier 
+#### Ham vs. Spam: SMS Text Classification 
 
 [GitHub](https://github.com/michaelm-503/spam_classification)
 
@@ -49,7 +49,7 @@ Rather than treating this as a simple modeling exercise, I approached it as a fu
 
 <img src="/assets/spam.png" width="400">
 
-#### King County Housing Prices ML Investigation
+#### Housing Prices in King County, Washington
 
 [GitHub](https://github.com/michaelm-503/housing-prices-king-county)
 
