@@ -25,7 +25,7 @@ Deterministic SPC Agent is a guardrailed, reproducible manufacturing analytics f
 
 The system supports fleet analytics, EWMA-based control logic, reproducible run artifacts, and a replot mode that enables visualization refinement without re-running SQL. The goal is to explore how agentic AI can operate safely inside a 24/7 factory environment where auditability and execution discipline matter.
 
-<img src="assets/spc_agent_2.png" width=“400">
+<img src="assets/spc_agent_2.png" width="500">
 
 #### Home Emissions Data Viz
 
