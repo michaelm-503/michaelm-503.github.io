@@ -17,13 +17,29 @@ What I do best:
 
 ## Projects
 
+#### Deterministic SPC Agent
+
+[GitHub](https://github.com/michaelm-503/deterministic-spc-agent)
+
+Deterministic SPC Agent is a guardrailed, reproducible manufacturing analytics framework that applies LLM-driven planning without allowing AI to generate SQL or analysis code. The LLM produces a structured JSON plan, which is validated and executed through approved SQL templates, deterministic SPC preprocessing, and standardized visualization modules.
+
+The system supports fleet analytics, EWMA-based control logic, reproducible run artifacts, and a replot mode that enables visualization refinement without re-running SQL. The goal is to explore how agentic AI can operate safely inside a 24/7 factory environment where auditability and execution discipline matter.
+
+<table>
+<tr>
+<td><img src="assets/spc_agent_1.png" width="500"></td>
+<td><img src="assets/spc_agent_2.png" width="500"></td>
+<td><img src="assets/spc_agent_3.png" width="500"></td>
+</tr>
+</table>
+
 #### Home Emissions Data Viz
 
 [Tableau](https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1)
 
 This data viz tracks 9 years of trends and correlations in my energy usage and emissions at home. Click through the story mode to see my insights on how various life changes and home upgrades have shifted my emissions.
 
-<img src="/assets/EmissionsDashboard.jpg" width="600">
+<img src="assets/EmissionsDashboard.jpg" width="600">
 
 #### Customer Segmentation and Business Insights
 
@@ -37,7 +53,7 @@ Rather than treating clustering as a purely technical exercise, this analysis em
 - Iteratively refining features to balance model stability, interpretability, and usefulness
 - Connecting data-driven segments to practical strategies for growth, retention, and operations
 
-<img src="/assets/clustering.png" width="400">
+<img src="assets/clustering.png" width="400">
 
 #### Ham vs. Spam: SMS Text Classification 
 
@@ -47,7 +63,7 @@ This project explores a classic machine learning problem: classifying SMS messag
 
 Rather than treating this as a simple modeling exercise, I approached it as a full data science workflow, emphasizing interpretability and robustness under changing assumptions. The project combines exploratory analysis, iterative feature engineering, and systematic model evaluation to understand why certain approaches work—and where they fail.
 
-<img src="/assets/spam.png" width="400">
+<img src="assets/spam.png" width="400">
 
 #### Housing Prices in King County, Washington
 
@@ -61,7 +77,7 @@ Rather than focusing solely on maximizing performance, the emphasis was on:
 - Interpreting model coefficients and residual behavior
 - Evaluating the impact of regularization, outlier handling, and feature selection
 
-<img src="/assets/housing_prices.jpg" width="400">
+<img src="assets/housing_prices.jpg" width="400">
 
 ## Work Experience
 
