@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="Portfolio for Michael Moore, a manufacturing data scientist and process engineer specializing in analytics, SPC, dashboards, and operational impact."
+    >
+    <title>Michael Moore | Manufacturing Data Scientist</title>
+    <link rel="stylesheet" href="assets/styles.css">
+    <script src="assets/project-gallery.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header" id="top">
+      <a class="brand" href="#top" aria-label="Michael Moore home">
+        <span class="brand-mark">MM</span>
+        <span>
+          <strong>Michael Moore</strong>
+          <small>Manufacturing Analytics</small>
+        </span>
+      </a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="#projects">Projects</a>
+        <a href="#impact">Impact</a>
+        <a href="#skills">Skills</a>
+        <a href="https://github.com/michaelm-503">GitHub</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero section">
+        <div class="hero-copy">
+          <p class="eyebrow">Process Engineer | Data Scientist | Chemist</p>
+          <h2>Michael Moore</h2>
+          <p class="hero-lede">I am a data analytics and process engineering professional with 12+ years in high-volume manufacturing at Intel, including 6+ years in management roles. My work connects data science, manufacturing operations, and technical leadership to create solutions leaders can act on.
+          </p>
+          <div class="hero-actions" aria-label="Portfolio actions">
+            <a class="button primary" href="#projects">View projects</a>
+            <a class="button secondary" href="#impact">View experience</a>
+          </div>
+        </div>
+        <aside class="profile-panel" aria-label="Profile summary">
+          <img src="assets/profile.jpg" alt="Michael Moore profile photo">
+          <div>
+            <p class="panel-label">Areas of Expertise</p>
+            <ul class="compact-list">
+              <li>SPC and Manufacturing analytics</li>
+              <li>Operational dashboards and KPI systems</li>
+              <li>Applied machine learning and statistical modeling</li>
+              <li>Cross-functional technical leadership</li>
+            </ul>
+          </div>
+        </aside>
+      </section>
+
+      <section class="section split-section" id="projects">
+        <div class="section-heading">
+          <p class="eyebrow">Featured project</p>
+          <h2>Deterministic SPC Agent</h2>
+          <p>
+            A manufacturing analytics project focused on reproducibility, controlled execution,
+            auditability, and practical visualization.
+          </p>
+        </div>
+        <article class="featured-project">
+          <div class="project-gallery large" data-gallery aria-label="Deterministic SPC Agent image gallery">
+            <div class="gallery-track">
+              <img src="assets/spc_agent_2.png" alt="Deterministic SPC Agent dashboard preview">
+              <img src="assets/spc_agent_1.png" alt="SPC Agent analysis setup screen">
+              <img src="assets/spc_agent_3.png" alt="SPC Agent control chart output">
+            </div>
+            <button class="gallery-control previous" type="button" aria-label="Show previous image"></button>
+            <button class="gallery-control next" type="button" aria-label="Show next image"></button>
+            <div class="gallery-dots" aria-label="Gallery image selector"></div>
+          </div>
+          <div class="project-content">
+            <div class="project-title-row">
+              <h3>Deterministic SPC Agent</h3>
+              <a href="https://deterministic-spc-agent.streamlit.app">StreamLit</a>
+            </div>
+            <p>
+              A guardrailed, reproducible manufacturing analytics framework that applies
+              LLM-driven planning without allowing AI to generate SQL or analysis code.
+              The LLM produces a structured JSON plan, which is validated and executed through
+              approved SQL templates, deterministic SPC preprocessing, and standardized
+              visualization modules.
+            </p>
+            <ul class="tag-list" aria-label="Project skills">
+              <li>SPC</li>
+              <li>SQL templates</li>
+              <li>LLM planning</li>
+              <li>EWMA control logic</li>
+              <li>Auditability</li>
+            </ul>
+          </div>
+        </article>
+      </section>
+
+      <section class="section">
+        <div class="section-heading narrow">
+          <p class="eyebrow">Selected work</p>
+          <h2>Projects</h2>
+        </div>
+        <div class="project-grid">
+          <article class="project-card">
+            <div class="project-gallery" data-gallery aria-label="Home emissions project image gallery">
+              <div class="gallery-track">
+                <img src="assets/EmissionsDashboard_1.png" alt="Home emissions Tableau dashboard preview">
+                <img src="assets/EmissionsDashboard_2.png" alt="Emissions-Temperature Correlation">
+                <img src="assets/EmissionsDashboard_3.png" alt="Emissions-Temperature Correlation by Life Phase">
+              </div>
+            </div>
+            <div class="project-content">
+              <div class="project-title-row">
+                <h3>Home Emissions Data Viz</h3>
+                <a href="https://public.tableau.com/app/profile/michael.moore1034/viz/EmissionsDashboard_17674163473330/Dashboard1">Tableau</a>
+              </div>
+              <p>
+                A Tableau story tracking 9 years of energy usage and emissions, connecting
+                household changes and home upgrades to measurable emissions patterns.
+              </p>
+              <ul class="tag-list">
+                <li>Tableau</li>
+                <li>Storytelling</li>
+                <li>Trend analysis</li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-gallery" data-gallery aria-label="Customer segmentation project image gallery">
+              <div class="gallery-track">
+                <img src="assets/clustering.png" alt="Customer segmentation clustering chart">
+              </div>
+            </div>
+            <div class="project-content">
+              <div class="project-title-row">
+                <h3>Customer Segmentation</h3>
+                <a href="https://github.com/michaelm-503/customer-segmentation">GitHub</a>
+              </div>
+              <p>
+                Unsupervised learning and exploratory analysis for wholesale customer segments,
+                with emphasis on interpretability, model stability, and business recommendations.
+              </p>
+              <ul class="tag-list">
+                <li>Clustering</li>
+                <li>EDA</li>
+                <li>Business insight</li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-gallery" data-gallery aria-label="SMS classification project image gallery">
+              <div class="gallery-track">
+                <img src="assets/spam.png" alt="SMS classification model performance preview">
+              </div>
+            </div>
+            <div class="project-content">
+              <div class="project-title-row">
+                <h3>SMS Text Classification</h3>
+                <a href="https://github.com/michaelm-503/spam_classification">GitHub</a>
+              </div>
+              <p>
+                A full machine learning workflow for ham-versus-spam classification, focused
+                on feature engineering, interpretability, and robustness under changing assumptions.
+              </p>
+              <ul class="tag-list">
+                <li>NLP</li>
+                <li>Classification</li>
+                <li>Model evaluation</li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-gallery" data-gallery aria-label="Housing price project image gallery">
+              <div class="gallery-track">
+                <img src="assets/housing_prices.jpg" alt="Housing price regression analysis preview">
+              </div>
+            </div>
+            <div class="project-content">
+              <div class="project-title-row">
+                <h3>King County Housing Prices</h3>
+                <a href="https://github.com/michaelm-503/housing-prices-king-county">GitHub</a>
+              </div>
+              <p>
+                Linear regression modeling of housing prices with careful treatment of data
+                cleaning, feature interpretation, regularization, and model limitations.
+              </p>
+              <ul class="tag-list">
+                <li>Regression</li>
+                <li>Feature treatment</li>
+                <li>Residual analysis</li>
+              </ul>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="impact">
+        <div class="section-heading narrow">
+          <p class="eyebrow">Experience</p>
+          <h2>Manufacturing and analytics work</h2>
+        </div>
+        <div class="timeline">
+          <article class="timeline-item">
+            <div>
+              <p class="role-date">3/2022 - 7/2025</p>
+              <h3>Engineering Department Manager, Intel Corporation</h3>
+            </div>
+            <ul>
+              <li>Developed a manufacturing capacity and output forecasting model to guide capital investment decisions, avoiding $42M in unnecessary equipment purchases without impacting factory output.</li>
+              <li>Built SQL-based data pipelines and dashboards that integrated multiple operational data streams, guiding daily resource allocation and preventing $1.2M in annual productivity losses.</li>
+              <li>Designed structured experiments to evaluate operational improvement proposals, reducing maintenance rework by 50% and eliminating $8M in annual waste.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <div>
+              <p class="role-date">3/2019 - 3/2022</p>
+              <h3>Module Team Leader, Intel Corporation</h3>
+            </div>
+            <ul>
+              <li>Developed a regression-based process control model validated through A/B testing and statistical analysis, reducing variability, eliminating a device reliability flaw, and increasing yield by 2% with $50M+ in annual value.</li>
+              <li>Performed exploratory analysis and Pareto-based segmentation to identify productivity drivers, informing initiatives that increased output 14% and avoided $12M in equipment purchases.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <div>
+              <p class="role-date">2/2013 - 3/2019</p>
+              <h3>Process Engineer, Intel Corporation</h3>
+            </div>
+            <ul>
+              <li>Designed real-time equipment sensor monitoring plans, automated response triggers, and developed dashboards used to review trend data and flag aberrant signals.</li>
+              <li>Automated test wafer monitor operations, SPC decisions, and failure response, increasing technician productivity 10x and enabling 7x manufacturing capacity growth while limiting headcount growth to 3x.</li>
+              <li>Co-developed tool automation and vendor software changes that reduced process complexity by 75%, reduced defects by 80%, and generated $10M+ in annual savings.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section skills-section" id="skills">
+        <div class="section-heading">
+          <p class="eyebrow">Toolkit</p>
+          <h2>Skills</h2>
+          <p>
+            Data science and engineering tools I have used across manufacturing, operations,
+            and business analytics work.
+          </p>
+        </div>
+        <div class="skill-list">
+          <section>
+            <h3>Data and tools</h3>
+            <p>SQL, Python, pandas, matplotlib, scikit-learn, JMP/JSL, Excel, Power BI, Tableau, Jupyter Notebooks, data storytelling</p>
+          </section>
+          <section>
+            <h3>Statistical methods</h3>
+            <p>SPC, DOE, ANOVA, linear regression, classification, anomaly detection, time series analysis, predictive modeling</p>
+          </section>
+          <section>
+            <h3>Program leadership</h3>
+            <p>KPI development, milestone tracking, risk management, stakeholder communication, cross-functional leadership, change control</p>
+          </section>
+          <section>
+            <h3>Manufacturing systems</h3>
+            <p>Lean, DMAIC, Pareto analysis, FMEA, 8D, RCA, CAPA, FDC, plasma etch, thin-film deposition, ALD, CVD</p>
+          </section>
+        </div>
+      </section>
+
+      <section class="section credentials">
+        <div>
+          <h2>Education and coursework</h2>
+        </div>
+        <div class="credential-list">
+          <p><strong>Ph.D., Chemistry</strong><br>University of California, Berkeley</p>
+          <p><strong>B.A., Chemistry, High Honors</strong><br>Oberlin College</p>
+          <p><strong>Additional coursework</strong><br>Data Science with AI Boot Camp, Codecademy.com<br>Analyze Data with SQL Skill Path, Codecademy.com</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Michael Moore</p>
+      <div>
+        <a href="#top">Back to top</a>
+        <a href="https://github.com/michaelm-503">GitHub</a>
+      </div>
+    </footer>
+  </body>
+</html>

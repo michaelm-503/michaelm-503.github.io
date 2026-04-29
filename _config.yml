@@ -1,4 +1,4 @@
-# add the following to _config.yml file
 title: Michael Moore
 logo: /assets/profile.jpg
+description: Manufacturing data scientist and process engineer portfolio.
 theme: jekyll-theme-minimal
