@@ -372,6 +372,14 @@ h3 {
   gap: 18px;
 }
 
+.project-links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 10px;
+  white-space: nowrap;
+}
+
 .project-title-row h3 {
   margin-bottom: 14px;
 }
